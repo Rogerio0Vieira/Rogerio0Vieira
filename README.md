@@ -9,3 +9,4 @@ Sou graduado em ciência da computação. Utimamente tenho focado meus estudos e
 
 [![Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerio0Vieira&show_icons=true&theme=radical)]()
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Rogerio0Vieira/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
