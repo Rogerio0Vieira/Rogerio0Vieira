@@ -8,13 +8,9 @@
 ## Sobre Mim
 
 - 📒Sou graduado em ciência da computação, mas, continua a buscar conhecimento, fazendo cursos em plataformas como Rocket seat, Udemy e Epic React
-<br>
 - 🧑🏾‍💻Ultimamente tenho focado meus estudos em Javascript e Typescript, criando projetos para praticar os conceitos que tenho aprendido.
-<br>
 - 💼 Atualmente trabalho como Analista de testes em software, e estudo programação em paralelo, além de também de aprofundar meus conhecimentos em testes.
-<br>
 - 📚Amo ler. Ficção, fantasia são meus gêneros preferidos, seja em livros, quadrinhos ou mangás. 
-
 
 ## Tecnologias 💻
 
