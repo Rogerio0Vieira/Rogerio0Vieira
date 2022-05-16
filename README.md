@@ -5,7 +5,7 @@
 </a>
 </p>
 
-## Sobre Mim
+## Sobre Mim 🧑🏾‍💻
 
 - 📒Sou graduado em ciência da computação, mas, continua a buscar conhecimento, fazendo cursos em plataformas como Rocket seat, Udemy e Epic React
 - 🧑🏾‍💻Ultimamente tenho focado meus estudos em Javascript e Typescript, criando projetos para praticar os conceitos que tenho aprendido.
